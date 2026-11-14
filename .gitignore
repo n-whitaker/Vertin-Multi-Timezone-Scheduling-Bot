@@ -23,6 +23,7 @@ pids/
 *.seed
 
 # Build and Cache Directories
+.npm
 dist/
 build/
 .cache/
