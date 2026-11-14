@@ -1,0 +1,24 @@
+{
+  "name": "friendzones-bot",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "canvas": "^3.2.1",
+    "discord.js": "^14.25.1",
+    "luxon": "^3.7.2",
+    "sqlite3": "^5.0.2",
+    "string-similarity": "^4.0.4",
+    "string-similarity-js": "^2.1.4"
+  },
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.0.2"
+  }
+}
